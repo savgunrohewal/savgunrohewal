@@ -1,9 +1,9 @@
-# savgun-rohewal
+
 
 <!-- 🎬 Animated Banner -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:3F8EFC&height=200&section=header&text=Savgun%20Kaur&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:3F8EFC&height=200&section=header&text=Savgun%20Kaur Rohewal&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <h3 align="center"> MERN Stack Developer </h3>
